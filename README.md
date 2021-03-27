@@ -12,8 +12,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 - 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id)
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=arinr&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
 
 ### Connect with me:
 
@@ -47,6 +45,8 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
 
+![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id)
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=arinr&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
 
 
        WakaTime Dev Metrics
