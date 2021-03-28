@@ -31,11 +31,6 @@ Welcome and Enjoy my Github!
 [instagram]: https://instagram.com/arinarinr
 [linkedin]: www.linkedin.com/in/arini-r-100800
 
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
-
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id)
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=arinr&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
 
-
-       WakaTime Dev Metrics
