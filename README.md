@@ -1,6 +1,4 @@
-### Hi there 👋
- 
-Welcome and Enjoy my Github!
+# Welcome and Enjoy my Github!
 
 ### Connect with me:
 
